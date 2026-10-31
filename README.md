@@ -16,8 +16,8 @@ My interview prep notes and practice code. Right now it covers problem solving i
 | [`roadmap/`](roadmap/) | Detailed topic checklists for Ruby, Rails, JavaScript and React |
 | [`interview/`](interview/) | Interview process guide, salary and level tips, question bank |
 | [`problem-solving/`](problem-solving/) | Algorithms, data structures and coding problems, solved in [Ruby](problem-solving/ruby/) and [JavaScript](problem-solving/javascript/) |
-| [`rails/`](rails/) | Rails practice projects (an API that the React app talks to) |
-| [`react/`](react/) | React frontend practice, used together with the Rails API |
+| [`rails/`](rails/) | Two Rails practice projects: a **full-stack Hotwire app** (ERB, Turbo Frames, Turbo Streams, Stimulus) and an **API-only app** used by a React frontend |
+| [`react/`](react/) | React topics from basics to advanced, to learn or revise, plus the **frontend for the Rails API** |
 | [`refreshers/`](refreshers/) | Short notes on modern [Ruby](refreshers/ruby.md), [Rails](refreshers/rails.md) and [JavaScript](refreshers/javascript.md) |
 
 ## Running the code
