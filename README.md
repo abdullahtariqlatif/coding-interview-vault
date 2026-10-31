@@ -6,13 +6,14 @@ My interview prep notes and practice code. Right now it covers problem solving i
 
 ## Start here
 
-1. 👉 **[ROADMAP.md](ROADMAP.md)**: the checklist of everything to learn for a Rails developer role, from junior to mid level.
+1. 👉 **[ROADMAP.md](ROADMAP.md)**: the checklist of everything to learn for a Rails developer role, from junior to mid level, with detailed checklists for [Ruby](roadmap/ruby.md), [Rails](roadmap/rails.md), [JavaScript](roadmap/javascript.md) and [React](roadmap/react.md).
 2. 🎯 **[interview/](interview/)**: how hiring works ([guide](interview/README.md)) and a [question bank with answers](interview/questions.md).
 
 ## What's inside
 
 | Folder | What it holds |
 |---|---|
+| [`roadmap/`](roadmap/) | Detailed topic checklists for Ruby, Rails, JavaScript and React |
 | [`interview/`](interview/) | Interview process guide, salary and level tips, question bank |
 | [`problem-solving/`](problem-solving/) | Algorithms, data structures and coding problems, solved in [Ruby](problem-solving/ruby/) and [JavaScript](problem-solving/javascript/) |
 | [`rails/`](rails/) | Rails practice projects (an API that the React app talks to) |
